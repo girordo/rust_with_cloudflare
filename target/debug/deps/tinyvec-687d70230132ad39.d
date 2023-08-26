@@ -1,0 +1,11 @@
+/home/giroldo/rust/rust_with_cloudflare/target/debug/deps/tinyvec-687d70230132ad39.rmeta: /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/lib.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/array.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/array/generated_impl.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/arrayvec.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/arrayvec_drain.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/slicevec.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/tinyvec.rs
+
+/home/giroldo/rust/rust_with_cloudflare/target/debug/deps/tinyvec-687d70230132ad39.d: /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/lib.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/array.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/array/generated_impl.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/arrayvec.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/arrayvec_drain.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/slicevec.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/tinyvec.rs
+
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/lib.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/array.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/array/generated_impl.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/arrayvec.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/arrayvec_drain.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/slicevec.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.6.0/src/tinyvec.rs:

@@ -1,0 +1,11 @@
+/home/giroldo/rust/rust_with_cloudflare/target/debug/deps/parse_zoneinfo-843d6bcc469b2e86.rmeta: /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/lib.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/line.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/structure.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/table.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/home/giroldo/rust/rust_with_cloudflare/target/debug/deps/libparse_zoneinfo-843d6bcc469b2e86.rlib: /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/lib.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/line.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/structure.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/table.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/home/giroldo/rust/rust_with_cloudflare/target/debug/deps/parse_zoneinfo-843d6bcc469b2e86.d: /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/lib.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/line.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/structure.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/table.rs /home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/lib.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/line.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/structure.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/table.rs:
+/home/giroldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.0/src/transitions.rs:
