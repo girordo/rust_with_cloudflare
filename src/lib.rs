@@ -32,4 +32,9 @@ async fn main(req: Request, env: Env, ctx: Context) -> Result<Response> {
     let router = Router::with_data(shared_data);
 
     router.run(req, env).await
+    
+    router.get("/shared-data", |_, ctx| {
+            let shared_data = ctx.data.name;
+            Response::ok(shared_data);
+        })
 }
